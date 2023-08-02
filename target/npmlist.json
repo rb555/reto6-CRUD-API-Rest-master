@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"apirest_crud","dependencies":{"express":{"version":"4.18.2"},"morgan":{"version":"1.10.0"}}}
